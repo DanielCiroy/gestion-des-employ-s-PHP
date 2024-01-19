@@ -10,7 +10,7 @@
 
 <body>
     <div class="container">
-        <a href="ajouter.html" class="Btn_add"><img src="images/plus.png" alt="ajouter">Ajouter</a>
+        <a href="ajouter.php" class="Btn_add"><img src="images/plus.png" alt="ajouter">Ajouter</a>
 
         <table>
             <tr id="items">
@@ -31,7 +31,7 @@
                 <td>dan</td>
                 <td>ciroy</td>
                 <td>22 ans</td>
-                <td><a href="modifier.html"><img src="images/pen.png" alt=""></a></td>
+                <td><a href="modifier.php"><img src="images/pen.png" alt=""></a></td>
                 <td><a href="#"><img src="images/trash.png" alt=""></a></td>
             </tr>
         </table>
