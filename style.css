@@ -99,7 +99,14 @@ h2 {
 
 label {
     margin-top: 5px;
-    border: 1px solid solid #999;
+
+    text-transform: uppercase;
+}
+
+input {
+    padding: 5px;
+    border: 1px solid #999;
+    outline: 0;
     margin-top: 2px;
 }
 
